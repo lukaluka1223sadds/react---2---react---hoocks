@@ -1,0 +1,15 @@
+
+.div{
+    margin: 40px 0 0 150px;
+}
+
+.div1{
+    padding: 20px;
+    color: black;
+}
+.div2{
+    padding: 30px;
+}
+.div3{
+    transform: translate(275px , -90px);
+}

@@ -1,0 +1,125 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/reusable-components/component-1/page.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************/
+.page_homes__0R_Xu {
+  background-color: rgba(255, 255, 255, 0.301);
+  height: 400px;
+  width: 1000px;
+  transform: translate(140px, 0px);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}/*# sourceMappingURL=page.module.css.map */
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/reusable-components/component-2/page.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************/
+.page_homes__5j6sI {
+  background-color: rgba(255, 255, 255, 0.753);
+  height: 400px;
+  width: 1000px;
+  transform: translate(140px, 0px);
+}/*# sourceMappingURL=page.module.css.map */
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/component-1/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.page_div__0YYdc {
+  margin-top: 50px;
+}
+
+.page_page__JNK7I {
+  display: grid;
+  grid-template-columns: repeat(1, 0px);
+  grid-row-gap: 50px;
+  row-gap: 50px;
+}/*# sourceMappingURL=page.module.css.map */
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/component-1/component-1-functions/1/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__HgY0p{
+    transform: translate(60px , 100px);
+}
+.page_button__zI5KP{
+    height: 30px;
+    width:150px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/component-1/component-1-functions/2/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.page_div__q4tPR{
+    margin: 40px 0 0 150px;
+}
+
+.page_div1__6cZH_{
+    padding: 20px;
+    color: black;
+}
+.page_div2__n2py_{
+    padding: 30px;
+}
+.page_div3___kjtY{
+    transform: translate(275px , -90px);
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/component-1/component-1-functions/3/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_div__UAuig{
+    border: 5px solid rgb(48, 18, 18);
+    border-style: dotted;
+    padding: 5px;
+}
+
+.page_input__QM6Tz{
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+.page_buttons__kWzvZ{
+    height: 40px;
+    width: 300px;
+    font-size: 17px;
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/component-1/component-1-functions/4/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_div4aze__Rhhkb{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(148, 39, 39);
+    margin-left: 110px;
+    padding: 30px 0 0 40px;
+    margin-bottom: 5px;
+}
+.page_div3__6vUQ3{
+  height: 200px;
+  width: 600px;
+  margin: 10px 0 0 180px;
+  background-color: rgb(0, 0, 0);
+}
+.page_input4__Ho2ji{
+    height: 50px;
+    width: 600px;
+    border: 0;
+    color: green;
+    background-color: black;
+    font-size: 15px;
+    padding-left: 30px;
+}
+.page_div4ze__kv85y{
+    height: 110px;
+    width: 110px;
+    background-color: rgb(255, 0, 0);
+    margin-left: 115px;
+    padding: 35px 0 0 45px;
+    margin-bottom: 10px;
+}
+.page_h1__9s2VW{
+    color: black;
+    margin-left: 250px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.page_rowcolT__CbqmS{margin-top: 15px;}
+.page_rowcol__8o6C8{height: 100px;}

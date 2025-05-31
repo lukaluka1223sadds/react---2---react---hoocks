@@ -1,0 +1,19 @@
+.div{
+    border: 5px solid rgb(48, 18, 18);
+    border-style: dotted;
+    padding: 5px;
+}
+
+.input{
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+.buttons{
+    height: 40px;
+    width: 300px;
+    font-size: 17px;
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+}

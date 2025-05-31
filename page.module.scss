@@ -1,0 +1,9 @@
+.div{
+    margin-top: 50px;
+}
+
+.page{
+    display: grid;
+    grid-template-columns: repeat(1 , 0px);
+    row-gap: 50px;
+}
